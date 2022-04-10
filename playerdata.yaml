@@ -1,0 +1,66 @@
+Profile:
+    Name: 
+    Multiplier: 1.02
+
+Backpack:
+    Current: 0
+    Capacity: 10
+    Holding:
+        Stone: 0
+        Iron_Ore: 0
+        Iron_Block: 0
+        Gold_Ore: 0
+        Gold_Block: 0
+        Diamond_Ore: 0
+        Diamond_Block: 0
+        Emerald_Ore: 0
+        Emerald_Block: 0
+        Quartz_Ore: 0
+        Quartz_Block: 0
+        Netherrack: 0
+        Nether_Bricks: 0
+        End_Stone: 0
+        Andesite: 0
+        Polished_Andesite: 0
+        SandStone: 0
+        Lapis_Ore: 0
+        Lapis_Block: 0
+        Bricks: 0
+        Obsidian: 0
+        Pink_Concrete: 0
+        Blue_Concrete: 0
+        Cyan_Concrete: 0
+        Yellow_Concrete: 0
+        Orange_Concrete: 0
+        Green_Concrete: 0
+        Red_Concrete: 0
+
+Unlocked:
+- A
+
+Locked:
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- Q
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
