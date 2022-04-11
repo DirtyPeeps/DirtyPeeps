@@ -6,6 +6,7 @@ Backpack:
     Current: 0
     Capacity: 10
     SellMultiplier: 0
+    AutoSell: 1
     Holding:
         Stone: 0
         Iron_Ore: 0
